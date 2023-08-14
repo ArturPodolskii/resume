@@ -12,7 +12,7 @@ background-image: url(https://i.pinimg.com/originals/b9/db/8c/b9db8ce782db60e6c4
 
 .card1 {border: 2px solid rgba(0, 0, 139, 0);
 border-radius: 10px;padding: 20px;background-color:rgba(73, 227, 219, 0.426);
-display: flex}
+display: flex;justify-content: center}
 
 .card2{border: 2px solid rgba(0, 0, 0, 0);
     border-radius: 10px;
@@ -38,7 +38,7 @@ border-radius: 100%;} */
 .foto {width: 250px;box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
     border-radius: 100%; margin-top: 20px;}
 
-.foto2{height:280px;box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.781);margin-left: 30px; margin-right: 0; margin-bottom: 10px; margin-top: 10px; border-radius: 4%;}
+.foto2{height:300px;box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.781);margin-left: 30px; margin-right: 0; margin-bottom: 10px; margin-top: 10px; border-radius: 4%;}
 .foto3{height:200px;box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.781);margin: 10px; border-radius: 4%;}
 
 
@@ -69,9 +69,9 @@ a:active{color: #000000;}
 
 
 .A1 td{text-align: center;}
-.A{text-align: left;}
-.A h2{margin-right: 30px;
-padding-top: 40px;}
+.A{text-align: left;margin-right: 40px; padding-left: 0;padding-top: 10px;
+font-size: 18px;}
+
 .container{display:flex;
 padding: 10px;}
 .container div{padding: 20px;}
