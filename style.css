@@ -4,7 +4,7 @@
 body{ 
     color: #000000;
 font-family:Pacifico;
-font: normal, 15px, sans-serif;max-width: 90%;
+font: normal, 15px, sans-serif;max-width: 85%;
 margin: auto;
 margin-bottom: 20px;
 padding: 20px;
@@ -35,7 +35,7 @@ border-radius: 100%;} */
 
 
 
-.foto {width: 250px;box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+.foto {width: 270px;box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
     border-radius: 100%; margin-top: 20px;}
 
 .foto2{height:250px;box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.781);margin-left: 30px; margin-right: 0; margin-bottom: 10px; margin-top: 10px; border-radius: 4%;}
