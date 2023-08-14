@@ -69,8 +69,8 @@ a:active{color: #000000;}
 
 
 .A1 td{text-align: center;}
-.A{text-align: left;margin-right: 40px; padding-left: 0;padding-top: 10px;
-font-size: 18px;}
+.A{text-align: left;margin-right: 40px; padding-left: 10;padding-top: 10px;
+font-size: 16px;}
 
 .container{display:flex;
 padding: 10px;}
@@ -86,3 +86,4 @@ padding: 10px;}
 
 @media(max-width:1000px){body{background-image: url(https://i.pinimg.com/originals/8d/2e/2e/8d2e2e3a85d1d5d2938730d3dcaf0654.jpg)}}
 @media(max-width:1200px){.card2{display: block;}}
+@media(max-width:1200px){.card1{display: block;}}
